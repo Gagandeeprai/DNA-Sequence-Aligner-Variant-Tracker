@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Compiled executables
+*.exe
+
+# Large data files
+*.fasta
+
+# OS generated files
+.DS_Store
+Thumbs.db
